@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking menu member with wrong data</description>
+   <name>MemberSearch(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca4d49b3-7f8a-48c1-92ad-f84893e202aa</testCaseGuid>
+</TestCaseEntity>

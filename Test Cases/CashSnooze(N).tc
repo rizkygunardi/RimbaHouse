@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add list cash snooze with invalid data</description>
+   <name>CashSnooze(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0fd3112-5b81-41d6-9025-291c4966a0ab</testCaseGuid>
+</TestCaseEntity>

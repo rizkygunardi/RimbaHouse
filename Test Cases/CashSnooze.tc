@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>List name in menu cash snooze</description>
+   <name>CashSnooze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98d73791-d403-40d4-800f-eeb6cc93bd0e</testCaseGuid>
+</TestCaseEntity>

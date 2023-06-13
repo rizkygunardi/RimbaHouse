@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan perubahan pada nama dan foto</description>
+   <name>ProfileChange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbe6a87c-6970-4e51-9e2e-c1f42b09100a</testCaseGuid>
+</TestCaseEntity>

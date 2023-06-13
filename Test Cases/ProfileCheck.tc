@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengecek Semua menu yang berada didalam profile</description>
+   <name>ProfileCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9ad4938-e275-4a9f-bfa4-2eb8245b58e1</testCaseGuid>
+</TestCaseEntity>

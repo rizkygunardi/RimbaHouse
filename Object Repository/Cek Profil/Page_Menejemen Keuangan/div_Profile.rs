@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile</name>
+   <tag></tag>
+   <elementGuidId>0d44a73a-8bee-4d10-8b03-cdf5fa9a9567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-header.py-3.d-flex.flex-row.align-items-center.justify-content-between</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f443673-f9ed-45c2-9828-36ff68f35174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-header py-3 d-flex flex-row align-items-center justify-content-between</value>
+      <webElementGuid>47169ffe-4140-45d9-b75c-b2e7f5c0e874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Profile:
+                </value>
+      <webElementGuid>5c049752-b694-4e5f-9e4f-1ac14f3c7670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-10 col-lg-10&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-header py-3 d-flex flex-row align-items-center justify-content-between&quot;]</value>
+      <webElementGuid>f9eb148c-e1ab-462f-b40f-c8c6744795e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div/div</value>
+      <webElementGuid>a480bdf6-f3d2-41b0-82a6-99ed12015056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nicky'])[2]/preceding::div[1]</value>
+      <webElementGuid>95dea5df-46cf-4749-9fa9-796b50ab8b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>7e624d8c-bb52-4790-8bcd-f7ec8a5a22f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+  Profile:
+                ' or . = '
+  Profile:
+                ')]</value>
+      <webElementGuid>d9d24cba-9615-4c15-b13b-6484e6dfd0b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

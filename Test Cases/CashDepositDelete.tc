@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>members in cash deposits will be removed from index 1</description>
+   <name>CashDepositDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07c364e-8fa5-447f-9912-00c16f861483</testCaseGuid>
+</TestCaseEntity>

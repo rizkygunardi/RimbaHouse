@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>remove member data from list</description>
+   <name>MemberDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d0e4c20-b57c-4880-8b91-6d7ed059a2d6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking Login with invalid data. in this case use wrong pass</description>
+   <name>Login(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e616673-e402-4973-91cc-c1ca80786f68</testCaseGuid>
+</TestCaseEntity>

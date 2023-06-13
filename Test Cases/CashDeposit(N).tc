@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cast deposit with index 1 and invalid date</description>
+   <name>CashDeposit(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37ffdf09-7e19-4fd7-b2a8-c356799970a6</testCaseGuid>
+</TestCaseEntity>

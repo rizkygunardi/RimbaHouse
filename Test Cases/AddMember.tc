@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah Anggota pada Menajemen</description>
+   <name>AddMember</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfcfb4f2-2544-4e1a-9ba8-8e47499a4b46</testCaseGuid>
+</TestCaseEntity>

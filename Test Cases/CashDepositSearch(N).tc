@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cash deposit with invalid data</description>
+   <name>CashDepositSearch(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb5067de-fdfa-4566-ac91-a30a9cbccf19</testCaseGuid>
+</TestCaseEntity>

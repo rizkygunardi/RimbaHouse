@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add member with wrong date</description>
+   <name>AddMember(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c700ef39-1f11-452d-8dab-10b7a76303ec</testCaseGuid>
+</TestCaseEntity>

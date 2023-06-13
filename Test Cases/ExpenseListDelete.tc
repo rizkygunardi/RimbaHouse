@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete data from expense list</description>
+   <name>ExpenseListDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12086f50-9de7-474e-a903-6ec2187b8c1d</testCaseGuid>
+</TestCaseEntity>

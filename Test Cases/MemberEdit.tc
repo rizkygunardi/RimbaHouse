@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking member with valid name</description>
+   <name>MemberEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0218dbfb-2051-4eb4-a926-e44bb58a56b3</testCaseGuid>
+</TestCaseEntity>

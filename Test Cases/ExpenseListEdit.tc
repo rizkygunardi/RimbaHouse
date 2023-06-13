@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit data with valid data</description>
+   <name>ExpenseListEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efff4484-e1ea-47bc-8b2e-cbb51b062c06</testCaseGuid>
+</TestCaseEntity>
