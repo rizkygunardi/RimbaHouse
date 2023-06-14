@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>show table cash register</description>
+   <name>CashRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c536d393-76c7-40d8-be14-117f0abe983b</testCaseGuid>
+</TestCaseEntity>

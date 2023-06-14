@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change Pass</description>
+   <name>ProfileChangePass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1e1f200-c9d0-44d6-bcba-84e8307dea6f</testCaseGuid>
+</TestCaseEntity>

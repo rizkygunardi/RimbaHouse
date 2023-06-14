@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit data in cash register with invalid data</description>
+   <name>CashRegisterEdit(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb89d749-6831-453c-83c9-ca9aad8ab5bb</testCaseGuid>
+</TestCaseEntity>

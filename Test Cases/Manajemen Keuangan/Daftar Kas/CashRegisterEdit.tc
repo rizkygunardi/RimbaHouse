@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Cash deposit try to edit with valid data</description>
-   <name>CashDepositEdit</name>
+   <name>CashRegisterEdit</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>08d16bf9-2615-4e91-886f-840eed652fe0</testCaseGuid>

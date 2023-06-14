@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change invalid password</description>
+   <name>ProfileChangePass(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b50f304d-7fc1-43ce-9997-2755d4df24ea</testCaseGuid>
+</TestCaseEntity>

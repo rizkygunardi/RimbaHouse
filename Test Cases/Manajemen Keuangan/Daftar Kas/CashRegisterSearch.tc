@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Searching cash deposit with valid data</description>
-   <name>CashDepositSearch</name>
+   <name>CashRegisterSearch</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dc710d4e-54ce-44ae-866e-64ad47acca72</testCaseGuid>

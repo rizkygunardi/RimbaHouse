@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>edit member with invalid data</description>
+   <name>MemberEdit(N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef6de9a1-4a87-4778-8df2-2a8ccc07bc5f</testCaseGuid>
+</TestCaseEntity>
